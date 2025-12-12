@@ -1,9 +1,9 @@
-theme: jekyll-theme-minimal
+
 
 # PROFOLIO - BAGOFROZENMANGO / KEEFY (Miles Wang)
 ## Bg Pixel Art / Bg Digital Paintings
 
-A bunch of words go here
+Hello! I mainly do pixel art and digital painting for objects and various backgrounds. For paintings in a drawing app or with pixel art, I am relatively fast; images 3, 4, 6, and 7 took me only 3-4 hours each. When designing pixel art using sprite sheets, I will create concept paintings first, adjust them to my liking, then convert it into pixel art. This process makes them take longer but outputs higher quality. I also know how to create basic animations, have experience in physical mediums, and have small amounts of coding knowledge in python.
 
 
 <p align="center">
